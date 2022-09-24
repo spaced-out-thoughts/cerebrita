@@ -11,7 +11,7 @@ impl Cabezita {
         Cabezita {
             tick: 0,
             tick_limit: 5_000, 
-            iteration: 100,
+            iteration: 1_000,
         }
     }
 
