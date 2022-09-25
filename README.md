@@ -1,3 +1,5 @@
+## Cerebrita
+
 `avr-hal-template`
 ==================
 [`cargo-generate`] template for jumpstarting projects on common AVR
